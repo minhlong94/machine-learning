@@ -50,9 +50,7 @@ def create_model(x_train, y_train, x_test, y_test):
 
 if __name__ == '__main__':
     best_run,best_model = optim.minimize(model=create_model, data=custom_get_data,algo=tpe.suggest, 
-                                         max_evals=10, trials=Trials(),notebook_name='Untitled1') # replace with the notebook name if used on notebook
-	# best_run,best_model = optim.minimize(model=create_model, data=custom_get_data,algo=tpe.suggest, 
-    #                                     max_evals=10, trials=Trials()) # use this if run .py file
+                                        max_evals=10, trials=Trials()) # use this if run .py file
     x_train, y_train, x_test, y_test = custom_get_data()
     print("Evalutation of best performing model:")
     print(best_model.evaluate(x_test, y_test))
