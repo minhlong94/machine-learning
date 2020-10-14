@@ -33,6 +33,13 @@ The list will be updated regularly, though not guarantee.
 - Albumentations (Image augmentation)
 - imgaug
 
+## Optimizers
+- Radam
+- Ranger
+- Lookahead
+- Qhoptim
+- QHAdam
+
 ## Others
 - Networkx (for Graph)
 - Biopython (for bio-related tasks)
