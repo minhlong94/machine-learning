@@ -29,3 +29,5 @@ These are the others paper that I read but I have not fully understood, or I am 
 ### [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
 ### [Algorithms for hyper-parameter optimization](http://papers.nips.cc/paper/4443-algorithms-for-hyper)
 ### [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)
+### [TabNet: Attentive Interpretable Tabular Learning](https://arxiv.org/abs/1908.07442)
+### [Quasi-hyperbolic momentum and Adam for deep learning](https://arxiv.org/abs/1810.06801)
