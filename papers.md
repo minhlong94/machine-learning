@@ -31,3 +31,4 @@ These are the others paper that I read but I have not fully understood, or I am 
 ### [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)
 ### [TabNet: Attentive Interpretable Tabular Learning](https://arxiv.org/abs/1908.07442)
 ### [Quasi-hyperbolic momentum and Adam for deep learning](https://arxiv.org/abs/1810.06801)
+### [Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks](https://arxiv.org/abs/1602.07868)
