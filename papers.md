@@ -33,3 +33,5 @@ These are the others paper that I read but I have not fully understood, or I am 
 ### [Quasi-hyperbolic momentum and Adam for deep learning](https://arxiv.org/abs/1810.06801)
 ### [Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks](https://arxiv.org/abs/1602.07868)
 ### [On the Variance of the Adaptive Learning Rate and Beyond](https://arxiv.org/abs/1908.03265)
+### [NeuMiss networks: differential programming for supervised learning with missing values](https://arxiv.org/abs/2007.01627)
+### [Untangling tradeoffs between recurrence and self-attention in neural networks](https://arxiv.org/abs/2006.09471)
