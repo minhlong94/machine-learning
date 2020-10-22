@@ -8,7 +8,11 @@ The list will be updated regularly, though not guarantee.
 - Datatable
 - TFRecords (especially for Images)
 
-## Tree-based libraries
+## Computer Vision
+- ArcFace
+- Generalized Mean
+
+## Tree-based models
 - XGBoost
 - LightGBM
 - CatBoost
@@ -23,22 +27,32 @@ The list will be updated regularly, though not guarantee.
 
 ## Data Visualization
 - Matplotlib (Legend never dies)
-- Seaborn (Interactive and very nice color)
-- Bokeh
-- Plotly
+- Seaborn 
+- Bokeh 
+- Plotly (Interactive)
 - Altair
-- Dash (?)
+- Dash (built on Plotly)
 
 ## Data Preprocessing
 - Albumentations (Image augmentation)
 - imgaug
+- StandardScaler, RobustScaler, MinMaxScaler, PCA, SVD, NMF (MinMax and Standard do not affect outlier problem)
+- For NLP: CountVectorizer, TF-IDF, N-grams, Word embeddings (Word2Vec, GloVe, fastText, Doc2Vec)
+- For NLP: lowercase, lemmatization + stemming, stopwords (NLTK)
+- Imbalance: SMOTE/MLSMOTE, ImbalanceDataSampler (PyTorch), ADASYN, Siamese, Triplet Loss
+
+## Cross-Validation
+- Leave-P-Out
+- Holdout
+- KFold, StratifiedKFold, MultilabelStratifiedKFold
 
 ## Optimizers
-- Radam
+- RAdam
 - Ranger
 - Lookahead
 - Qhoptim
 - QHAdam
+- AdamW
 
 ## Others
 - Networkx (for Graph)
