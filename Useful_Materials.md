@@ -1,4 +1,4 @@
-# Useful libraries for ML in Python
+# Useful materials and libraries for ML in Python
 Here I save useful libraries that I (may) need when learning ML and competiting. Sources are wide: Kaggle, GitHub, Medium, random pages...  
 The list will be updated regularly, though not guarantee.
 
@@ -32,6 +32,7 @@ The list will be updated regularly, though not guarantee.
 - Plotly (Interactive)
 - Altair
 - Dash (built on Plotly)
+- Pandas Profiling
 
 ## Data Preprocessing
 - Albumentations (Image augmentation)
@@ -57,3 +58,4 @@ The list will be updated regularly, though not guarantee.
 ## Others
 - Networkx (for Graph)
 - Biopython (for bio-related tasks)
+- Methods: Stacking, Boosting, Ensembling, Bagging, Pasting
