@@ -35,4 +35,4 @@ These are the others paper that I read but I have not fully understood, or I am 
 ### [On the Variance of the Adaptive Learning Rate and Beyond](https://arxiv.org/abs/1908.03265)
 ### [NeuMiss networks: differential programming for supervised learning with missing values](https://arxiv.org/abs/2007.01627)
 ### [Untangling tradeoffs between recurrence and self-attention in neural networks](https://arxiv.org/abs/2006.09471)
-### [TabNet: Attentive Interpretable Tabular Learning](https://arxiv.org/abs/1908.07442)
+### [ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://arxiv.org/abs/1801.07698)
