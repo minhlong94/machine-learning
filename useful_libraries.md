@@ -4,7 +4,7 @@ The list will be updated regularly, though not guarantee.
 
 ## Reading large dataset
 - Dask
-- Rapids
+- RAPIDS (GPU-only tasks)
 - Datatable
 - TFRecords (especially for Images)
 
@@ -33,19 +33,24 @@ The list will be updated regularly, though not guarantee.
 - Altair
 - Dash (built on Plotly)
 - Pandas Profiling
-
+- klib
+- Hiplot
+- qgrid
 ## Data Preprocessing
 - Albumentations (Image augmentation)
 - imgaug
-- StandardScaler, RobustScaler, MinMaxScaler, PCA, SVD, NMF (MinMax and Standard do not affect outlier problem)
+- StandardScaler, RobustScaler, MinMaxScaler (MinMax and Standard do not affect outlier problem)
+- Dimensionality Reduction: PCA, SVD, NMF, LDA
 - For NLP: CountVectorizer, TF-IDF, N-grams, Word embeddings (Word2Vec, GloVe, fastText, Doc2Vec)
 - For NLP: lowercase, lemmatization + stemming, stopwords (NLTK)
 - Imbalance: SMOTE/MLSMOTE, ImbalanceDataSampler (PyTorch), ADASYN, Siamese, Triplet Loss
+- Fast ICA, FeatureAgglomeration
 
 ## Cross-Validation
 - Leave-P-Out
 - Holdout
 - KFold, StratifiedKFold, MultilabelStratifiedKFold
+- [Optimise Blending Weights](https://www.kaggle.com/gogo827jz/optimise-blending-weights-with-bonus-0)
 
 ## Optimizers
 - RAdam
@@ -54,8 +59,20 @@ The list will be updated regularly, though not guarantee.
 - Qhoptim
 - QHAdam
 - AdamW
+- LR Scheduler
+
+## Methods
+- Stacking, Boosting, Ensembling, Bagging, Pasting
+- Pseudo Labelling
+- Label Smoothing, Temperature Scaling, Confidence Penalty (for binary classification)
+- DeepInsight (non-image data to image data for CNN)
+- Quantile Transformer
+- Rank Gauss
 
 ## Others
 - Networkx (for Graph)
 - Biopython (for bio-related tasks)
-- Methods: Stacking, Boosting, Ensembling, Bagging, Pasting
+- Streamlit: web app
+- TabNet (for tabular data)
+- [From multilabel to multiclass](https://www.kaggle.com/c/lish-moa/discussion/200992)
+- Numba, X
