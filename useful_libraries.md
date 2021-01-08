@@ -11,6 +11,8 @@ The list will be updated regularly, though not guarantee.
 ## Computer Vision
 - ArcFace
 - Generalized Mean
+- ViT, DeiT
+- labelImg (for object localization)
 
 ## Tree-based models
 - XGBoost
@@ -36,15 +38,17 @@ The list will be updated regularly, though not guarantee.
 - klib
 - Hiplot
 - qgrid
+
 ## Data Preprocessing
 - Albumentations (Image augmentation)
 - imgaug
 - StandardScaler, RobustScaler, MinMaxScaler (MinMax and Standard do not affect outlier problem)
-- Dimensionality Reduction: PCA, SVD, NMF, LDA
+- Features Reduction/Generation: PCA, SVD, NMF, LDA, UMAP
 - For NLP: CountVectorizer, TF-IDF, N-grams, Word embeddings (Word2Vec, GloVe, fastText, Doc2Vec)
 - For NLP: lowercase, lemmatization + stemming, stopwords (NLTK)
 - Imbalance: SMOTE/MLSMOTE, ImbalanceDataSampler (PyTorch), ADASYN, Siamese, Triplet Loss
 - Fast ICA, FeatureAgglomeration
+- Synchronized Batch Norm: https://github.com/vacancy/Synchronized-BatchNorm-PyTorch
 
 ## Cross-Validation
 - Leave-P-Out
@@ -75,4 +79,6 @@ The list will be updated regularly, though not guarantee.
 - Streamlit: web app
 - TabNet (for tabular data)
 - [From multilabel to multiclass](https://www.kaggle.com/c/lish-moa/discussion/200992)
-- Numba, X
+- Numba
+- shap (model interpretation)
+- GPU-accelerated ML: cudf, cuml (in RAPIDS)
