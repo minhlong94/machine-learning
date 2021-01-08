@@ -44,11 +44,16 @@ The list will be updated regularly, though not guarantee.
 - imgaug
 - StandardScaler, RobustScaler, MinMaxScaler (MinMax and Standard do not affect outlier problem)
 - Features Reduction/Generation: PCA, SVD, NMF, LDA, UMAP
-- For NLP: CountVectorizer, TF-IDF, N-grams, Word embeddings (Word2Vec, GloVe, fastText, Doc2Vec)
-- For NLP: lowercase, lemmatization + stemming, stopwords (NLTK)
 - Imbalance: SMOTE/MLSMOTE, ImbalanceDataSampler (PyTorch), ADASYN, Siamese, Triplet Loss
 - Fast ICA, FeatureAgglomeration
 - Synchronized Batch Norm: https://github.com/vacancy/Synchronized-BatchNorm-PyTorch
+
+## NLP
+- For NLP: CountVectorizer, TF-IDF, N-grams, Word embeddings (Word2Vec, GloVe, fastText, Doc2Vec)
+- For NLP: lowercase, lemmatization + stemming, stopwords (NLTK)
+- Snorkel (NLP): https://github.com/snorkel-team/snorkel
+- EDA: https://github.com/jasonwei20/eda_nlp
+- NLPAug: https://github.com/makcedward/nlpaug
 
 ## Cross-Validation
 - Leave-P-Out
