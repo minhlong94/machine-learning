@@ -49,11 +49,14 @@ The list will be updated regularly, though not guarantee.
 - Synchronized Batch Norm: https://github.com/vacancy/Synchronized-BatchNorm-PyTorch
 
 ## NLP
+- Embeddings: GloVe, fastText, Word2Vec, Poincare: https://github.com/facebookresearch/poincare-embeddings
 - For NLP: CountVectorizer, TF-IDF, N-grams, Word embeddings (Word2Vec, GloVe, fastText, Doc2Vec)
 - For NLP: lowercase, lemmatization + stemming, stopwords (NLTK)
 - Snorkel (NLP): https://github.com/snorkel-team/snorkel
 - EDA: https://github.com/jasonwei20/eda_nlp
 - NLPAug: https://github.com/makcedward/nlpaug
+- HTML parsing: https://www.crummy.com/software/BeautifulSoup/
+- Scrapy: https://scrapy.org/
 
 ## Cross-Validation
 - Leave-P-Out
