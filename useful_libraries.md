@@ -80,6 +80,7 @@ The list will be updated regularly, though not guarantee.
 - DeepInsight (non-image data to image data for CNN)
 - Quantile Transformer
 - Rank Gauss
+- Group Normalization
 
 ## Others
 - Networkx (for Graph)
