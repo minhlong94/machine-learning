@@ -37,4 +37,4 @@ These are the other papers that I read or know, but I do not carefully study the
 ### [Train longer, generalize better: closing the generalization gap in large batch training of neural networks](https://arxiv.org/abs/1705.08741)
 ### [DeepInsight: A methodology to transform a non-image data to an image for convolution neural network architecture](https://www.nature.com/articles/s41598-019-47765-6)
 ### [Old Photo Restoration via Deep Latent Space Translation](https://arxiv.org/abs/2009.07047)
-
+### [How Does Batch Normalization Help Optimization?](https://arxiv.org/pdf/1805.11604.pdf)
