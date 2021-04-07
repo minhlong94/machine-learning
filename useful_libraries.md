@@ -64,14 +64,11 @@ The list will be updated regularly, though not guarantee.
 - KFold, StratifiedKFold, MultilabelStratifiedKFold
 - [Optimise Blending Weights](https://www.kaggle.com/gogo827jz/optimise-blending-weights-with-bonus-0)
 
-## Optimizers
-- RAdam
-- Ranger
-- Lookahead
-- Qhoptim
-- QHAdam
-- AdamW
-- LR Scheduler
+## Dimensionality Reduction
+- PCA
+- t-SNE
+- UMAP
+- SVD, NMF
 
 ## Methods
 - Stacking, Boosting, Ensembling, Bagging, Pasting
